@@ -1,6 +1,7 @@
 
 ##Code Description
 Below a brief description of the code:
+
 ###Reading and merging the moves
          testMoves <- read.csv("test/Y_test.txt", sep = "", header = FALSE)
          trainMoves <- read.csv("train/Y_train.txt", sep = "", header = FALSE)
